@@ -10,4 +10,7 @@
   --base: 16px;
   --h1: 32px;
   --h2: 50px;
+  --uppercase: uppercase;
+  --capitalize: capitalize;
+  --tx-decor-none: none;
 }
